@@ -10,3 +10,8 @@ dotenv                 nos sirve para utilizar variables de entorno en nuestra a
 nodemon                nos permite reiniciar el servidor cada que hacemos un cambio
 handlebars             modulo de handlebars
 npm-check-updates      nos va a notificar cuando haya nuevos y actualizaciones de modulos 
+
+
+# Variables de Entorno
+NOTES_APP_MONGODB_HOST= puede ser nuestra maquina (localhost) o una direcccion Ip 
+NOTES_APP_MONGODB_DATABASE= nombre de nuestra base de datos

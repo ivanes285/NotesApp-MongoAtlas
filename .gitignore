@@ -1,3 +1,4 @@
 # Archivos que ignoramos para el respositorio
 node_modules
 package-lock.json
+.env
